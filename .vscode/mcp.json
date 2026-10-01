@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "transaction-mcp-server": {
+      "type": "stdio",
+      "command": "/Users/varshahindupur/Workspace/MCPServer/venv/bin/python",
+      "args": ["/Users/varshahindupur/Workspace/MCPServer/server.py"]
+    }
+  }
+}

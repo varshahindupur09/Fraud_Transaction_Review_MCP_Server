@@ -1,0 +1,4 @@
+mcp<2
+cloud-sql-python-connector[asyncpg]
+asyncpg
+python-dotenv
